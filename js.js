@@ -1,9 +1,7 @@
-// creates 16x16 grid 
-
 const gridItemHTML = '<div class="grid-item"></div>';
 const gridContainer = document.querySelector(".grid-container");
 
-// hover drawing effect
+// mouseover drawing effect
 
 let gridItem = document.querySelectorAll(".grid-item");
 
